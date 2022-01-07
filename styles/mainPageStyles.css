@@ -210,9 +210,9 @@ html {
 
 .dot {
   display: inline-block;
-  width: 7px;
-  height: 7px;
-  border: 2 hupx solid black;
+  width: 8px;
+  height: 8px;
+  border: 2 px solid black;
   border-radius: 50%;
   margin: 0 10px;
   cursor: pointer;
